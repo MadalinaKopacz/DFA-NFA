@@ -1,1 +1,1 @@
-Implementarea unui DFA și a unui NFA.
+Using C++, I implemented a DFA and NFA for my Formal Languages and Automata course.
